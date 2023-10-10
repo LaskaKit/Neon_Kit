@@ -1,5 +1,5 @@
 ### LaskaKit EL Neon Kit - Stavebnice
-<p><img src="https://github.com/LasKKit/LBot/blob/master/img/EL_Neon_animace.gif" alt="main" /></p>
+<p><img src="https://github.com/LasKKit/Neon_Kit/blob/master/img/EL_Neon_animace.gif" alt="main" /></p>
 <p>Tento LaskaKit EL neon kit Tě naučí, jakými způsoby se dá využít EL “neonový” drát. Možností je mnoho!</p>
 
 <p>EL drát je tvořen z několika vrstev, do kterých je přiváděno elektrické napětí. Mezi těmito vrstvami je fosfor, díky němuž dosáhneš požadovaného světelného efektu.</p>
